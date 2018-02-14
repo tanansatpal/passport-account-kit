@@ -1,0 +1,40 @@
+{
+  "name": "passport-account-kit",
+  "version": "1.0.0",
+  "description": "Facebook AccountKit authentication strategy for Passport.",
+  "keywords": [
+    "accountkit",
+    "passport",
+    "facebook",
+    "auth",
+    "authn",
+    "authentication",
+    "identity"
+  ],
+  "author": {
+    "name": "Satpal Tanan",
+    "email": "tanansatpal@gmail.com",
+    "url": "http://www.satpaltanan.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/tanansatpal/passport-accountkit.git"
+  },
+  "bugs": {
+    "url": "http://github.com/tanansatpal/passport-accountkit.git/issues"
+  },
+  "license": "MIT",
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://opensource.org/licenses/MIT"
+    }
+  ],
+  "main": "./lib",
+  "dependencies": {
+    "passport-oauth2": "1.x.x"
+  },
+  "engines": {
+    "node": ">= 0.4.0"
+  }
+}
